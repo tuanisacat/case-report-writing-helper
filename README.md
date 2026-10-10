@@ -1,4 +1,4 @@
-# case-report-writer
+# case-report-writer v.0.1
 
 An open-source agent skill that turns scattered clinical materials — history, labs, imaging, pathology, treatment course, follow-up — into a **publication-ready medical case report** compliant with international reporting guidelines (CARE 2013 / SCARE 2023).
 
