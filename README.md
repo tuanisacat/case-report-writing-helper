@@ -27,7 +27,7 @@ An open-source agent skill that turns scattered clinical materials — history, 
 
 3. The agent will extract and confirm the structured data with you, draft the manuscript, run the CARE/SCARE self-check, and export Markdown (or `.docx` where document tooling exists).
 
-## Repository layout
+## Layout
 
 ```
 case-report-writer/
